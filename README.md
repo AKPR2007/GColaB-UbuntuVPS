@@ -11,6 +11,8 @@
 • Ubuntu 18.04 LTS
 • XFCE/XFCE4 Desktop Environment
 
+**RDP time 12 hours**
+
 # **Tutorial**
 
 1.go to https://colab.research.google.com/github/AKPR2007/GColaB-UbuntuVPS/blob/main/Colab_Ubuntu_VPS_%7BAK_PR%7D.ipynb
