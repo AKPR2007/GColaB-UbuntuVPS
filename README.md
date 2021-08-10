@@ -29,7 +29,7 @@
 
 8.execute "step 2" and wait for 3-7 minutes until complete
 
-9.go to remotedesktop.google.com and sign in to the same account
+9.go to https://remotedesktop.google.com and sign in to the same account
 
 10.click access my computer and click the pc
 
